@@ -5,7 +5,7 @@ import re
 WORDS = ["DEFINE", "DEFINITION"]
 
 def handle(text, mic, profile):
-    app_id = "PYZp3gynW4msh6f1mOO60KaV6JAPp1x4peHjsnmT1OXwcopmmc"
+    app_id = "PYZp3gynW4msh6f1mOO60KaV6JAPp1x4peHjsnmT1OXwcopmmc" #this is a public api key available at Mashape Market Place
     response = unirest.get("https://montanaflynn-dictionary.p.mashape.com/define?word=%s" % text, 
                            headers={"X-Mashape-Key": app_id,
                            "Accept": "application/json"}
