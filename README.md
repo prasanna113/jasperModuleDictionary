@@ -13,3 +13,5 @@ If anyone interested to get a new API key please go to below link
 https://market.mashape.com/andruxnet/random-famous-quotes
 
 Register for a developer account and request a new API key.
+
+All the rights are reserved with the API owner and with Mashape.com.
