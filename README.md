@@ -9,7 +9,7 @@ $ sudo pip install unirest
 
 That's it and you are good to go.
 No need to add an API key as I have already included one.
-If anyone interested to get a new API key please go to below link
+If anyone wants to get a new API key please go to below link
 https://market.mashape.com/andruxnet/random-famous-quotes
 
 Register for a developer account and request a new API key.
